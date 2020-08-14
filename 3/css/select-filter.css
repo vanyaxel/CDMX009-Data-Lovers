@@ -1,0 +1,22 @@
+
+.select-opt-filter{
+    display: flex;
+    justify-content: space-around;
+}
+
+.select-opt{
+    width: 100px;
+    background-color: red;
+}
+
+
+#filled-age-native-simple{
+    border: solid #F40000 2px;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+#demo-customized-textbox{
+    border: solid #F40000 2px;
+    width: 275px !important;
+}

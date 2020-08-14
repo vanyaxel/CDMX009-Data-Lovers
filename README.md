@@ -6,7 +6,9 @@ La producto diseñado es una aplicación complementaria diseñada para cubrir la
 
 El proceso del diseño fue se realizo basandonos en 2 aspectos, el primero en la aplicación existente, la cual ya tiene una paleta de colores, que decidimos retomar y la segunda en las necesidades de los usuarios, tratando de dar un flujo facil y entendible entre secciones.
 
-Las historias de usuario los obtuvimos a través de una pequeña encuesta realizada a usuarios que utilizaron la app de Pokémon GO: https://docs.google.com/forms/d/1E-ZNG-C0kr7ATXNQzxhebduaQpY8iFibS2B6_3r5wP0/edit
+## Diseño de la Interfaz de Usuario
+
+[![Pokendia](https://i.gyazo.com/da99a01130b1abf8ba64676ba5691fd2.gif)](https://i.gyazo.com/da99a01130b1abf8ba64676ba5691fd2.gif) 
 
 ### Historias de usuario
 
@@ -139,10 +141,6 @@ Tareas
 5.3 Agregar botón para visualizar el # de votaciones 
 5.4 Agregar botón para votar por zona
 5.5 Agregar un mensaje para activar modo online
-
-## Diseño de la Interfaz de Usuario
-
-[![Pokendia](https://i.gyazo.com/da99a01130b1abf8ba64676ba5691fd2.gif)](https://i.gyazo.com/da99a01130b1abf8ba64676ba5691fd2.gif) 
 
 #### Testeos de usabilidad
 
